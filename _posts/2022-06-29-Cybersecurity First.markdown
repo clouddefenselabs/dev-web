@@ -7,6 +7,7 @@ tags: [cybersecurity, firstpost]
 feature_image: "images/2022-06-29/post_pic2.jpg"
 # disable comments on this page
 comments_disable: true
+imagetag: "images/2022-06-29"
 
 # publish date
 # seo

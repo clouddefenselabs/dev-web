@@ -8,7 +8,7 @@ feature_image: "images/2022-06-30/homelab-2019.jpg"
 comments_disable: true
 # publish date
 date: 2022-06-30
-
+imagetag: "images/2022-06-30"
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
