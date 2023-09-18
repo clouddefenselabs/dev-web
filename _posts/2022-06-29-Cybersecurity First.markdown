@@ -3,7 +3,7 @@ laout: post
 title: "Cybersecurity First"
 date: 2022-06-29 11:32:53 +0500
 tags: [cybersecurity, firstpost]
-feature_image: ":post_pic2.jpg"
+feature_image: ":/2022-06-29/post_pic2.jpg"
 # disable comments on this page
 comments_disable: true
 
