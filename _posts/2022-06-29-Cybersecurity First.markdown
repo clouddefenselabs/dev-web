@@ -1,7 +1,8 @@
 ---
-laout: post
+layout: post
 title: "Cybersecurity First"
-date: 2022-06-29 11:32:53 +0500
+description: "Welcome to my website."
+date: 2022-06-29
 tags: [cybersecurity, firstpost]
 feature_image: "images/2022-06-29/post_pic2.jpg"
 # disable comments on this page
