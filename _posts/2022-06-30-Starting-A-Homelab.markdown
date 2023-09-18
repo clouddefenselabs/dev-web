@@ -3,7 +3,7 @@ layout: post
 title: "Starting a Homelab"
 tags: [cybersecurity, homelab]
 # thumbnail image for post
-img: "images/2022-06-30/homelab-2019.jpg"
+feature_image: "images/2022-06-30/homelab-2019.jpg"
 # disable comments on this page
 comments_disable: true
 # publish date
@@ -32,6 +32,8 @@ date: 2022-06-30
 
 For those starting off their career in Cybersecurity, a #homelab is often a great first step. Often times, while cruising Reddit‘s [r/homelab](https://www.reddit.com/r/homelab/) or [r/selfhosted](https://www.reddit.com/r/selfhosted/), it’s easy to become overwhelmed by the amount of people with flashy servers, petabytes of storage, exabits of ram, and gigawatts of compute (/sarcasm) but honestly most everyone can start their homelab with an old computer or two and a hypervisor of their choice.
 
+<!--more-->
+
 I recently restarted my homelab after taking a hiatus. In the past I had pair of Dell servers, (a R620 and R720) and a custom 14u (ish) rack running esxi 6.7 and proxmox. When I landed my job as an ISSO with Georgia Tech I slimmed down to a Synology NAS holding all of my lifes belongings as I found I ran out of time to “play” (mistake #1 – don’t ever stop tinkering).
 
 I then landed my next job as an ISSE/Cybersecurity Analyst where I got to play around with vulnerability management and the more technical aspect of Cybersecurity. I also found I had even less time to tinker around… until recently.
@@ -50,4 +52,4 @@ Now its time to really start digging in and outlining my lab. Onto the most impo
 
 Pictures below are of my first homelab minus the R720 which came later. Sadly I could not find the photos of the R720. I’ll eventually get photos of the R420/R520 combo up in another post. I custom built the rack from a 2 post 42u rack I cut down myself with a band saw and some time, coupled with what would now be $3,000 in lumber. This was circa 2018.
 
-![My First Homelab](:/2022-06-30/homelab-2019.jpg){:data-align="center"}
+![My First Homelab](images/2022-06-30/homelab-2019.jpg){:data-align="center"}

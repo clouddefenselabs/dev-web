@@ -32,5 +32,7 @@ comments_disable: true
 
 Welcome to my website. My name is Justin Johnson, and this is Cloud Defense Labs. I am an avid Information Technology/Cybersecurity Analyst who believes that there is always something to learn in this field. I also tinker with technology to the point to where if it ain’t broke, fix it until it is… (then secure it).
 
+<!--more-->
+
 Information Technology should always start with Cybersecurity at the forefront of the stack, now more so than ever. Hopefully this website will help those with a passion for Information Technology and/or Cybersecurity get along further in their career.
 
