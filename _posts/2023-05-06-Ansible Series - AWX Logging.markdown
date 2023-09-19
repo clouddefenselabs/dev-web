@@ -4,12 +4,12 @@ title: "Ansible Series - AWX Logging"
 description: "Have you ever ran a command in linux and later went "Hmm... What did I just run" "
 tags: [Ansible, AWX, Docker]
 # thumbnail image for post
-feature_image: "images/2023-05-06/feat-1.png"
+feature_image: "images/2023-05-07/feat-1.png"
 # disable comments on this page
 comments_disable: true
 # publish date
-date: 2023-05-06 
-imagetag: "images/2023-05-06"
+date: 2023-05-07
+imagetag: "images/2023-05-07"
 # seo
 # if not specified, date will be used.
 #meta_modify_date: 2021-08-10 11:32:53 +0900
