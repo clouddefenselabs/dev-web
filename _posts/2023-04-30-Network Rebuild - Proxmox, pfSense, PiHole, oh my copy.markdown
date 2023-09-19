@@ -29,7 +29,7 @@ imagetag: "images/2023-04-30"
 #published: false
 ---
 
-### Preface:
+
 Rebuilding the Homelab time, and what better way than to start at your firewall/router. Earlier this week a series of events led me down to this path, one of which was the router/firewall dying, then it snowballed into other matters. I've read many reviews on Reddit and other forums about how firewalls/routers should be "Hardware" only, but yet, when it comes to cloud infrastructures, we aren't running our virtual firewalls/routers on hardware only (Hello McFly!). Besides, what is better than one form of backup when you can have two forms (I'll explain this later.)<!--more-->
 
 ### What was I running before?

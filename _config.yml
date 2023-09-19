@@ -12,7 +12,7 @@ lang: en-US
 title: "Cloud Defense Labs"
 
 # A description of your site for meta tag, search engine results.
-description: "Cloud Defense Labs by Justin Johnson - Located in Atlanta, Georgia."
+description: "Identity is the new perimeter"
 
 # The subpath of your site, e.g. /blog, for generating urls.
 baseurl: ""

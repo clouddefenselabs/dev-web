@@ -29,7 +29,7 @@ imagetag: "images/2023-05-02"
 #published: false
 ---
 
-### Preface:
+
 For those who utilize ESXI/vSphere and want to install pfSense and PiHole, it's not nearly as straight forward as the Proxmox install, however it may make more sense and be better for your environment depending on what is set up currently in your lab.<!--more-->
 
 ![Tailscale Icon - Courtesy of Tailscale.com]({{page.imagetag}}/1.png){:data-align="center"}

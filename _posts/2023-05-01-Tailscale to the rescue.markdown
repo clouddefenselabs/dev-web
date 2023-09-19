@@ -30,7 +30,7 @@ imagetag: "images/2023-05-01"
 ---
 
 
-### Preface:
+
 With the big push to Zero Trust, I am a big proponent of literally opening NO advertised ports to my home. You can use Cloudflare tunnels to open up services to your home which is one way (and in my opinion a great way) of self-hosting your services you feel you need to provide to the world, however what about VPN? Most would suggest OpenVPN, which in and of itself is great to use, <!--more-->but that still requires ports to be opened. Wireguard is another solution and is simple enough, but there is an even more simpler solution, one which can also be self hosted [Tailscale](https://tailscale.com/). It's one I use and in this blog post I'll show you how easy it is to set up a mesh-vpn for your network without opening any ports to your home router (cgnat is no longer a problem!) and utilize PiHole to have an always-on ad-blocking experience no matter where you are. (Bonus tip - If you self-host this in the cloud you can have better uptime if you have flaky internet and/or better uptime speeds for PiHole too)
 
 ![Tailscale Icon - Courtesy of Tailscale.com]({{page.imagetag}}/1.png){:data-align="center"}

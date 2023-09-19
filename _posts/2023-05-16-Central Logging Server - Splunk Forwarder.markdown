@@ -29,7 +29,7 @@ imagetag: "images/2023-05-16"
 #published: false
 ---
 
-### Preface:
+
 Continuing on with rebuilding the homelab, since I have two boxes set up (one main "server" and one "router/server/gateway/firewall" combo), I found that there was a real need to have separate logging on this box to be forwarded to my [Splunk](https://www.clouddefenselabs.com/posts/2022-07-03-Splunk%20Enterprise%20Pt.%201%20(Installation)) instance. Whenever I took my main server down which had my Splunk instance on it,<!--more--> anything that was sending syslogs to it via the udp port (and not using a universal forwarder, i.e. Routers, Switches, etc) would have that data lost. So any data that my firewall/router was sending my Splunk instance was essentially gone. While in a homelab environment this isn't critical (to most), in production this would not be best practice. Plus, why wouldn't I want to over-engineer something?
 
 ![Syslog VM]({{page.imagetag}}/1.png){:data-align="center"}

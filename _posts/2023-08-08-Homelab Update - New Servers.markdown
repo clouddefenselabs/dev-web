@@ -29,7 +29,7 @@ imagetag: "images/2023-08-08"
 #published: false
 ---
 
-### Preface:
+
 Over the past few months I've had a lot of different things happen, more namely moving different houses. Now I have a dedicated basement for the homelab (and coincidentally.... my office) and I also expanded a bit.<!--more-->
 
 ![New Homelab, who dis?]({{page.imagetag}}/1.jpg){:data-align="center"}

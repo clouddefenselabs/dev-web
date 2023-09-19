@@ -29,7 +29,7 @@ imagetag: "images/2023-08-10"
 #published: false
 ---
 
-### Preface:
+
 Unless you have been living under a rock, you know that the Cloud is one of the biggest things in IT, and if you aren't already learning, working, or developing yourself in a cloud-based environment, you are not only missing out, you are doing yourself a disservice. (I can hear some of you guys now: 'Justin, the cloud is really just someone elses computers' .... Yes, yes I know). <!--more-->The associated cost with running a homelab in the cloud, especially to any sort of extent, can be a deterring factor for most, however Oracle provides (at the time of this writing) free cloud instances, as long as you remain within the free tier. Best of all, you can connect this instance to your home environment and pass services back and forth, creating a hybrid environment - where you would have on-premise devices connected to the cloud (not to be confused with Azure Hybrid AD, or a Hybrid Cloud model which would combine Public and Private cloud). 
 
 Oracles [https://www.oracle.com/cloud/free/](free tier) provides two 1 CPU/1GB AMD servers and up to 4 instances of ARM Ampere A1 compute devices (with upwards of 24 GB of ram!!!!). Currently I have 4 instances running and have been running this configuration for over a year, and recently I have it connected to my homelab.

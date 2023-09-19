@@ -29,7 +29,7 @@ imagetag: "images/2023-05-06"
 #published: false
 ---
 
-### Preface:
+
 Have you ever ran a command in linux and later went "Hmm... What did I just run" (hint: bash history is your friend at times). How about in Ansible when you ran a big playbook but then realized you had to scroll back up to see what was happening (especially if a task in your playbook as "ignore_errors: true").
 <!--more-->
 Alright, those can be overcome fairly easily, but now imagine you are working in a Cybersecurity SOC, or you are responsible for reviewing log files, or you have to remain compliant for various cybersecurity frameworks. How can you feed what you (or anyone on the team) has done in Ansible/AWX to Splunk?

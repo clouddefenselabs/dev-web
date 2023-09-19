@@ -29,7 +29,7 @@ imagetag: "images/2023-05-04"
 #published: false
 ---
 
-### Preface:
+
 In the spirit of Homelab, it's always best to over-engineer, over-architect, "over-do" anything you do. But _sometimes_ it can be problematic if you go too far and forget to shut the door behind you and leave an open gap, forget to update to the latest security patches, etc. While it's not always the case that your machines become susceptable and used maliciously (for example, in a bot-net),<!--more--> reducing your attack surface overall is always good practice. Plus if you are in cybersecurity, its always good to freshen up your skills, learn how to harden systems to certain benchmarks (CIS, FIPS, NIST, etc) and if you really want to dig deeper, understand why your system breaks and how to fix them when you apply a benchmark that is meant to secure your system but then you lose the capability to perform that task you were used to doing (more on this later).
 
 

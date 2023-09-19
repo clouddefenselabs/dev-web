@@ -29,7 +29,7 @@ imagetag: "images/2023-05-05"
 #published: false
 ---
 
-### Preface:
+
 As a slight divergence (and later on a continuation in a few days) I'm going to start covering more Ansible related automation, starting off with AWX, Ansible Towers upstream. In today's IT environments, Ansible is widely used as one of many various automation tools/configuration management, and products such as AWX and Ansible Tower help bring a centralized GUI, role-based access control, <!--more-->job scheduling, workflows/API's, job status updates and most importantly (IMO) for the cybersecurity team - logging integrations. Today I'm going to install AWX in a kubernetes environment. While the VM I have is not a "True" Kubernetes High Availability Failover cluster, I am going to make a single node cluster using Rancher/k3s on my Ubuntu 22.04 VM, which I've dedicated 2 cores and 8GB of ram to. I don't plan on using this for anything other than Ansible/AWX and running day-to-day Ansible Playbooks, ensuring my environment is compliant and up-to-date, and taking up precious SSD space on my server (kidding).
 
 ![AWX Login Screen]({{page.imagetag}}/1.png){:data-align="center"}
