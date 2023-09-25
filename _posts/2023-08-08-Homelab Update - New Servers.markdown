@@ -4,7 +4,7 @@ title: "Homelab Update - New Servers!"
 description: "Over the past few months I've had a lot of different things happen, more namely moving different houses. Now I have a dedicated basement for the homelab (and coincidentally.... my office) and I also expanded a bit."
 tags: [Homelab, New, Servers, Logs]
 # thumbnail image for post
-feature_image: "images/2023-08-08/feat-1.png"
+feature_image: "images/2023-08-08/feat-1.jpg"
 # disable comments on this page
 comments_disable: true
 # publish date
