@@ -1,7 +1,7 @@
 {
-  "name": "John Doe",
-  "bio": "John is a designer, photographer, speaker, author of a couple of books about typography and the founder of photo magazine Curious.",
-  "url": "https://justgoodthemes.com",
-  "location": "Vilnius, Lithuania",
-  "image": "images/author.png"
+  "name": "Justin Johnson",
+  "bio": "Justin is a Cybersecurity Analyst, continuous learner/tinkerer, team leader, and the founder of Cloud Defense Labs.",
+  "url": "https://www.clouddefenselabs.com",
+  "location": "Atlanta, Georgia",
+  "image": "images/bio-photo.jpg"
 }
